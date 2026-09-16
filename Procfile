@@ -1,1 +1,1 @@
-worker: python booking_bot.py
+worker: python support_bot.py
